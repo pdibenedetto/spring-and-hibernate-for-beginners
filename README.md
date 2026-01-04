@@ -2,6 +2,14 @@
 
 Source code for the course: [Spring and Hibernate for Beginners (Includes Spring Boot)](http://www.luv2code.com/spring-github)
 
+---
+
+**NOTE**: An updated version of the course is available based on **Spring Boot 4**:
+- Udemy Course Link [Spring Boot 4, Spring 7 and Hibernate for Beginners](http://www.luv2code.com/spring-github)
+- New Git Repo link: [Spring Boot 4, Spring 7 and Hibernate for Beginners](https://github.com/darbyluv2code/spring-boot-4-spring-7-hibernate-for-beginners)
+
+---
+
 If you have questions or need tech support, post your questions to the [classroom discussion forum](https://www.udemy.com/spring-hibernate-tutorial/learn/v4/questions).
 
 Happy coding!
